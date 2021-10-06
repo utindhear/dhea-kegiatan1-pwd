@@ -1,0 +1,7 @@
+SPESIFIKASI LAPTOP
+
+1. RAM minimal 4GB, jika lebih besar maka lebih baik
+2. pastikan terdapat memori kosong pada pc minimal 6GB
+3. jika laptop tidak kuat maka bisa meminjam pc di laboratorium UAD
+4. jika tidak memiliki hp android bisa menggunakan emulator
+5. pastikan hp juga memiliki memori kosong minimal 500MB
